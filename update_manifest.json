@@ -2,7 +2,7 @@
   "version": "1.0.7",
   "download_url": "https://autoclashbot.com/",
   "fixes": [
-    "- Added an update alert on bot launch.",
-    "- Adjusted troop deployment timing."
+    "Added an update alert on bot launch.",
+    "Adjusted troop deployment timing."
   ]
 }
