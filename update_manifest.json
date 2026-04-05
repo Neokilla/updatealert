@@ -4,6 +4,7 @@
   "fixes": [
     "Added an update alert on bot launch.",
     "Adjusted troop deployment timing.",
-    "Fixed out of sync error"
+    "Fixed out of sync error",
+    "moved library folders into Tools"
   ]
 }
