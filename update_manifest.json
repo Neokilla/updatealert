@@ -1,10 +1,7 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "download_url": "https://autoclashbot.com/",
   "fixes": [
-    "Added an update alert on bot launch.",
-    "Adjusted troop deployment timing.",
-    "Fixed out of sync error",
-    "moved library folders into Tools"
+    "Fixed startup bug"
   ]
 }
