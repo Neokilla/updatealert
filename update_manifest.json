@@ -1,7 +1,9 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "download_url": "https://autoclashbot.com/",
   "fixes": [
-    "Fixed startup bug"
+    "Added stop on loot full",
+    "Added several security checks to handle errors",
+    "Increased troop drop speed"
   ]
 }
