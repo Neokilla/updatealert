@@ -1,9 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "download_url": "https://autoclashbot.com/",
   "fixes": [
-    "Added stop on loot full",
-    "Added several security checks to handle errors",
-    "Increased troop drop speed"
+    "Fixed emulator config enforcement"
   ]
 }
