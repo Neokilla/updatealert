@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "download_url": "https://autoclashbot.com/",
   "fixes": [
-    "Fixed stuck on searching when super troop challenges is enabled"
+    "Fixed several bugs in ClanGames"
   ]
 }
