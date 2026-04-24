@@ -1,13 +1,7 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "download_url": "https://autoclashbot.com/",
   "fixes": [
-    "All spells now get placed before hero retap, better for if you increase hero retap time",
-    "Added some extra error handling checks",
-    "Simplified wall upgrade logic",
-    "Added config icon for multi village beside profile name",
-    "Fixed a bug where port would default to 5556",
-    "Cleaned up the UI and removed unavailable options",
-    "Fixed bug which caused multiple instances to fail"
+    "Fixed zap challenge in ClanGames",
   ]
 }
