@@ -1,11 +1,7 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Clan Game super troop challenges now use cc cake if available",
-    "Added detection for league overview when clicking attack",
-    "Updated all siege templates & added new Siege Sky Wagon",
-    "Added safety checks for village under attack & maintenance breaks",
-    "Added in update alerts"
+    "Fixed Siege templates not working with CC troops",
   ]
 }
