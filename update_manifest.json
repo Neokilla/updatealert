@@ -1,8 +1,11 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Fixed army not resetting in CG",
-    "Added an error handler to catch and dismiss any known popups"
+    "Clan Game super troop challenges now use cc cake if available",
+    "Added detection for league overview when clicking attack",
+    "Updated all siege templates & added new Siege Sky Wagon",
+    "Added safety checks for village under attack & maintenance breaks",
+    "Added in update alerts"
   ]
 }
