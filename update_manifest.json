@@ -1,8 +1,9 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Added safety to ensure chest is open",
-    "Adjusted Error handler"
+    "Added safety checks at village load for chest, event dialogue & maintenance",
+    "fixed new siege not working",
+    "fixed traceback error causing crash"
   ]
 }
