@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.4",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Added safety check for 0 gold after wall upgrades"
+    "Added all super troops into detection"
   ]
 }
