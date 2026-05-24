@@ -1,7 +1,8 @@
 {
-  "version": "1.3.5",
+  "version": "1.3.6",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Added in event troop lavaloon"
+    "Adjusted loot detection for wall upgrades",
+    "Added BB detection on village load"
   ]
 }
