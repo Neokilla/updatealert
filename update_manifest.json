@@ -1,8 +1,8 @@
 {
-  "version": "1.3.8",
+  "version": "1.3.9",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Added new event troops",
-    "Added gold check before battle search after wall upgrade"
+    "Adjusted the gold check after wall upgrades",
+    "Fixed an issue where it got stuck in army drop down not found"
   ]
 }
