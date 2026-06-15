@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Updated the multi village, can now edit name & adjust profile match threshold",
-    "Calibration now will save all profiles found, if name cant be resolved it will receive generic name"
+    "added support for high loot values in multiplayer search",
+    "Fixed a crash when collecting gold collector"
   ]
 }
