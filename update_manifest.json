@@ -1,8 +1,7 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "added support for high loot values in multiplayer search",
-    "Fixed a crash when collecting gold collector"
+    "Added new troop/spell templates"
   ]
 }
