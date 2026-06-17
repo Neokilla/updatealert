@@ -1,7 +1,9 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Added new troop/spell templates"
+    "Added support for smallest troop bar size",
+    "Added missing troop template",
+    "Increased time before timeout when searching"
   ]
 }
