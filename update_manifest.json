@@ -1,9 +1,9 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Added support for smallest troop bar size",
-    "Added missing troop template",
-    "Increased time before timeout when searching"
+    "Added an error handler to check for errors and restart the bot if found",
+    "If any loot is above 1million the bot will ignore search filters & attack",
+    "Bot will now fast forward the battle"
   ]
 }
