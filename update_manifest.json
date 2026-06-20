@@ -1,9 +1,8 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Added an error handler to check for errors and restart the bot if found",
-    "If any loot is above 1million the bot will ignore search filters & attack",
-    "Bot will now fast forward the battle"
+    "Made some improvements to wall upgrading",
+    "Improved detection of no siege deployment"
   ]
 }
