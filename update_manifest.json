@@ -1,8 +1,7 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Made some improvements to wall upgrading",
-    "Improved detection of no siege deployment"
+    "Fixed an error with missing resource for wall upgrades"
   ]
 }
