@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Fixed an error with missing resource for wall upgrades"
+    "Fixed an issue if less then 10 walls left to upgrade"
   ]
 }
