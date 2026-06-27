@@ -1,7 +1,9 @@
 {
-  "version": "1.4.7",
+  "version": "1.4.8",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Fixed an issue if less then 10 walls left to upgrade"
+    "Fixed problems with CG edit army",
+    "Fixed walls clicking wall rings, when less then 10 walls available",
+    "Added support for other emulator, lets you use any emulator"
   ]
 }
