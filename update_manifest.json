@@ -1,8 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Added option to skip slot selection",
-    "removed toggle for small troop bar, now it auto detects"
+    "Updated zoom"
   ]
 }
