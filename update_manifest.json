@@ -1,7 +1,7 @@
 {
-  "version": "1.5.3",
+  "version": "1.5.4",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Updated zoom"
+    "Updated to support card event"
   ]
 }
