@@ -1,7 +1,7 @@
 {
-  "version": "1.5.5",
+  "version": "1.5.6",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Fixed an issue with card claiming at battle end"
+    "Fixed an issue with card claiming at battle end, added delay"
   ]
 }
