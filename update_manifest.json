@@ -1,7 +1,8 @@
 {
-  "version": "1.5.6",
+  "version": "1.5.7",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Fixed an issue with card claiming at battle end, added delay"
+    "Added new event spell",
+    "Increased spell drop to a random # between 16-32"
   ]
 }
