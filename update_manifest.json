@@ -1,8 +1,7 @@
 {
-  "version": "1.5.7",
+  "version": "1.5.8",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Added new event spell",
-    "Increased spell drop to a random # between 16-32"
+    "Added new event troop"
   ]
 }
