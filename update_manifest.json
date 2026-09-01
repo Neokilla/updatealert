@@ -1,8 +1,7 @@
 {
-  "version": "1.5.9",
+  "version": "1.6.0",
   "download_url": "https://autoclashbot.com/plans",
   "fixes": [
-    "Updated or new UI changes",
-    "Added longer wait before timeout in profile switch"
+    "Added in battle reward claiming"
   ]
 }
