@@ -1,7 +1,7 @@
 {
-  "version": "1.6.1",
-  "download_url": "https://autoclashbot.com/plans",
+  "version": "1.6.2",
+  "download_url": "https://acbot.site/plans",
   "fixes": [
-    "Added missing even troopp templates"
+    "fixed chests not opening"
   ]
 }
