@@ -1,7 +1,8 @@
 {
-  "version": "1.6.2",
+  "version": "1.6.3",
   "download_url": "https://acbot.site/plans",
   "fixes": [
-    "fixed chests not opening"
+    "Updated to work with the new UI update",
+    "Included new UI tutorial walkthrough"
   ]
 }
