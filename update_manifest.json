@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "download_url": "https://acbot.site/plans",
   "fixes": [
-    "Updated to work with the new UI update",
-    "Included new UI tutorial walkthrough"
+    "Fixed new UI walkthrough being confused for event",
+    "Fixed enemy loot detection"
   ]
 }
