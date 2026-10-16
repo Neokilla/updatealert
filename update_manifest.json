@@ -1,8 +1,7 @@
 {
-  "version": "1.6.4",
+  "version": "1.6.5",
   "download_url": "https://acbot.site/plans",
   "fixes": [
-    "Fixed new UI walkthrough being confused for event",
-    "Fixed enemy loot detection"
+    "Fixed crashing caused by builder count not detected"
   ]
 }
