@@ -1,7 +1,7 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.7",
   "download_url": "https://acbot.site/plans",
   "fixes": [
-    "Fixed Clan games not working as intended"
+    "Fixed Clan games scrolling edit army and missing some troops"
   ]
 }
