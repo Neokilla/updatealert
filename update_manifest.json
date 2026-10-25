@@ -1,7 +1,8 @@
 {
-  "version": "1.6.7",
+  "version": "1.6.8",
   "download_url": "https://acbot.site/plans",
   "fixes": [
-    "Fixed Clan games scrolling edit army and missing some troops"
+    "Opening another bot instance no longer breaks bots that are already running",
+    "Fixed the restart after an error popup (e.g. another device) failing straight after relaunching the game"
   ]
 }
