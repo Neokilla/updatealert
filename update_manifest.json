@@ -1,10 +1,9 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.2",
   "download_url": "https://acbot.site/plans",
   "fixes": [
-    "Updated for the new game UI (home detection, Edit Army, Magic Items)",
-    "Claims the new Star Bonus chest",
-    "Supports level 19 walls",
-    "Fixed the bot not starting on older CPUs"
+    "New Zoom Out method",
+    "Added sqad barch & giwiz",
+    "Added mumu option in emulator list"
   ]
 }
