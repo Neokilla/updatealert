@@ -1,9 +1,9 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "download_url": "https://acbot.site/plans",
   "fixes": [
-    "New Zoom Out method",
-    "Added sqad barch & giwiz",
-    "Added mumu option in emulator list"
+    "Zoom out now uses an improved pinched zoom",
+    "MuMu taps no longer missed when the emulator lags",
+    "BlueStacks removed from the emulator list, LDPlayer is now default"
   ]
 }
